@@ -1,17 +1,17 @@
 charaters = ["King", "Servant", "Assassin", "Wizad"]
 base_prompt = """
 This program generates fantasy characters.
---
+----
 Character: King
---
+----
 Character: Servant
---
+----
 Character: Elf
---
+----
 Character: Assassin
---
+----
 Character: Wizard
---
+----
 Character:
 """
 paragraphs = []
